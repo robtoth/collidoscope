@@ -1,0 +1,3 @@
+[submodule "frame-interpolation"]
+	path = frame_interpolation
+	url = https://github.com/pytti-tools/frame-interpolation
